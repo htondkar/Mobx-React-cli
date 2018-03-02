@@ -1,0 +1,11 @@
+{
+  "name": "ppcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HamidReza Tondkaran",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
